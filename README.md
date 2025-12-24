@@ -7,6 +7,8 @@ and the Christmas Hackathon 🎅🎁
 
 Think filters, frames, aesthetics and main-character energy all in one place.
 
+
+
 ✨ What is SnapStation?
 
 SnapStation lets you:
@@ -19,6 +21,8 @@ SnapStation lets you:
 It’s not just code.  
 It’s mood + creativity + tech.
 
+
+
 🎄 Why SnapStation?
 
 Because:
@@ -30,6 +34,8 @@ Because:
 
 Built with the idea that code can feel joyful.
 
+
+
 🧩 Features
 
 ✨ Personalized photo booth experience  
@@ -40,12 +46,14 @@ Built with the idea that code can feel joyful.
 
 More features coming as the vibes evolve 👀
 
+
+
 🛠️ Tech Stack
 
 HTML  
 CSS  
 JavaScript  
-(add frameworks / APIs if you used any)
+
 
 Built with:
 
@@ -53,6 +61,7 @@ Built with:
 🎧 Music  
 ✨ Vibes  
 ☕ Probably too much caffeine
+
 
 🎯 Hackathon Theme
 
