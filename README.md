@@ -5,7 +5,7 @@ your own personalized photobooth, but make it ✨ vibe-coded ✨
 SnapStation is a fun, cozy, and creative digital photobooth experience built as part of vibe coding
 and the Christmas Hackathon 🎅🎁
 
-Think filters, frames, aesthetics, and main-character energy — all in one place.
+Think filters, frames, aesthetics and main-character energy all in one place.
 
 ✨ What is SnapStation?
 
